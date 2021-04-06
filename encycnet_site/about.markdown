@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Team
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Thora Hagen](https://wueaddress.uni-wuerzburg.de/person/58909), University of Würzburg
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Erik Ketzan](https://www.erikketzan.com), University of Cologne
 
+[Fotis Jannidis](https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/jannidis/), University of Wurzburg
 
-[jekyll-organization]: https://github.com/jekyll
+[Andreas Witt](https://www1.ids-mannheim.de/digspra/personal/witt.html), IDS Mannheim & University of Cologne
+
+## Contact
