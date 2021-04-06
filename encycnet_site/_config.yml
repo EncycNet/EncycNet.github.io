@@ -21,7 +21,7 @@
 title: EncycNet
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for project EncycNet is currently under construction. Thank you for your patience.
+  ![DFG](\images\dfg_logo_schriftzug_schwarz_foerderung_en.jpg)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -29,6 +29,7 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
+#theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 destination: public
