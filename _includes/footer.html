@@ -1,10 +1,28 @@
 <style>
-  img {
+ #eins {
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
 }
 
-img:hover {
+#eins:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}
+#zwei {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+#zwei:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}
+#drei {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+#drei:hover {
     filter: none;
     -webkit-filter: grayscale(0);
 }
@@ -18,7 +36,7 @@ img:hover {
   
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-3">
-          <p><a href="https://www.uni-wuerzburg.de/startseite/"><img src="\images\wurzis.svg" width="100px" ></a> <a href="https://www.uni-koeln.de"><img src="\images\uni_cologne.jpg" width="200px" style="margin-left: 20px; " ></a></p>
+          <p><a href="https://www.uni-wuerzburg.de/startseite/"><img src="\images\wurzis.svg" width="100px" id="eins"></a> <a href="https://www.uni-koeln.de"><img src="\images\uni_cologne.jpg" width="200px" id="zwei" style="margin-left: 20px; " ></a></p>
           
           
         </div>
@@ -26,7 +44,7 @@ img:hover {
       
   
         <div class="footer-col footer-col-3">
-          <p><a href="https://www.dfg.de/foerderung/index.html"><img src="\images\dfg_logo_schriftzug_blau_foerderung_en.jpg" width="200px"></a></p></div>
+          <p><a href="https://www.dfg.de/foerderung/index.html"><img src="\images\dfg_logo_schriftzug_blau_foerderung_en.jpg" id="drei" width="200px"></a></p></div>
         
       </div>
   
