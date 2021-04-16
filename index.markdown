@@ -9,6 +9,10 @@ title: Project
 EncycNet, funded by the German Research Foundation (DFG) and begun in 2019, aims to
 create a new semantic resource for historical German in the form of a richly annotated knowledge graph (a nodes and edges network). By linking the knowledge contained within thousands of encyclopedia entries via machine learning classification and semantic web annotation, EncycNet provides a unique resource for a variety of historical, cultural, and computational linguistic research goals.
 
+### Publications
+
+- Thora Hagen, Erik Ketzan, Fotis Jannidis and Andreas Witt, [“Twenty-Two Historical Encyclopedias Encoded in TEI: A New Resource for the Digital Humanities”](https://www.aclweb.org/anthology/2020.latechclfl-1.13.pdf), LaTeCH-CLfL 2020: 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, December 2020.
+
 #### What we have done so far (as of April 2021)
 
 - ingested 22 historical German encyclopedias from the early 18th to early 20th century, over 49,300,000 word tokens, in XML format, provided by [TextGrid](https://textgrid.de) and [Zeno.org](http://www.zeno.org)
@@ -31,10 +35,25 @@ The EncycNet knowledge graph also aims to meet the following requirements: each 
 - [TEI-transformed corpus and ODD](http://dx.doi.org/10.5281/zenodo.4039569)
 - [Original XML corpus](http://dx.doi.org/10.5281/zenodo.4159491)
 - [TEI transformation with XSLT](https://github.com/ThoraHagen/Encyc-Transformation)
+  
+## Team
 
-### Publications
+- [Fotis Jannidis](http://www.jannidis.de), University of Würzburg
+- [Andreas Witt](https://www1.ids-mannheim.de/digspra/personal/witt.html), IDS Mannheim & University of Cologne
+- Thora Hagen, University of Würzburg
+- [Erik Ketzan](https://www.erikketzan.com), University of Cologne
 
-- Thora Hagen, Erik Ketzan, Fotis Jannidis and Andreas Witt, [“Twenty-Two Historical Encyclopedias Encoded in TEI: A New Resource for the Digital Humanities”](https://www.aclweb.org/anthology/2020.latechclfl-1.13.pdf), LaTeCH-CLfL 2020: 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, December 2020.
+## Research assistants
+
+- Corinna Keupp
+- Maximilian Supplieth
+- Nicolas Werner
+
+## Contact
+
+Thora Hagen
+
+<thora.hagen@uni-wuerzburg.de>
 
 ### Acknowledgements
 
