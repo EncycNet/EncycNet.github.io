@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Project
+title: EncycNet Project
 ---
 
 **EncycNet**, funded by the German Research Foundation (DFG) and begun in 2019, aims to
@@ -20,13 +20,14 @@ create a new semantic resource for historical German in the form of a richly ann
 ### Publications and Code
 
 - Thora Hagen, Erik Ketzan, Fotis Jannidis and Andreas Witt, [“Twenty-Two Historical Encyclopedias Encoded in TEI: A New Resource for the Digital Humanities”](https://www.aclweb.org/anthology/2020.latechclfl-1.13.pdf), LaTeCH-CLfL 2020: 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, December 2020.
+- Thora Hagen, Fotis Jannidis and Andreas Witt, [“Word Sense Alignment and Disambiguation for Historical Encyclopedias“](https://graphentechnologien.hypotheses.org/files/2022/01/Word_Sense_Alignment_and_Disambiguation_for_Historical_etc-Hagen_Jannidis_Witt.pdf), 6th international conference on Graphs and Networks in the Humanities, February 2022.
 - [TEI-transformed corpus and ODD](http://dx.doi.org/10.5281/zenodo.4039569)
 - [Original XML corpus](http://dx.doi.org/10.5281/zenodo.4159491)
 - [TEI transformation with XSLT](https://github.com/ThoraHagen/Encyc-Transformation)
 
 
 
-### What we have done so far (as of April 2021)
+### What we have done so far
 
 - ingested 22 historical German encyclopedias from the early 18th to early 20th century, over 49,300,000 word tokens, in XML format, provided by [TextGrid](https://textgrid.de) and [Zeno.org](http://www.zeno.org)
 - transformed the corpus to TEI Lex-0, to unify and disambiguate the original XML encoding, and to suggest changes to  TEI methodology for  encyclopedic texts
@@ -48,13 +49,16 @@ The EncycNet knowledge graph also aims to meet the following requirements: each 
 - [Fotis Jannidis](http://www.jannidis.de), University of Würzburg
 - [Andreas Witt](https://www1.ids-mannheim.de/digspra/personal/witt.html), IDS Mannheim & University of Cologne
 - Thora Hagen, University of Würzburg
-- [Erik Ketzan](https://www.erikketzan.com), University of Cologne
+- [Erik Ketzan](https://www.erikketzan.com), University of Cologne (July 2020 - Sept. 2021)
 
 ## Research assistants
 
 - Corinna Keupp
 - Maximilian Supplieth
-- Nicolas Werner
+- Nicolas Werner (April 2021 - Sept. 2021)
+
+
+
 
 ## Contact
 
