@@ -33,11 +33,11 @@ create a new semantic resource for historical German in the form of a richly ann
 - transformed the corpus to TEI Lex-0, to unify and disambiguate the original XML encoding, and to suggest changes to  TEI methodology for  encyclopedic texts
 - published the TEI corpus and transformation code
 - performed corpus annotation including Part-of-Speech tagging, lemmatization, orthographic normalization (see Acknowledgements, below) as well as Named Entity Recognition and transformed the TEI to CSV files
+- developed Hearst patterns (defined as lexico-syntactic recognition of hyponymy; but for EncycNet, several relation types are of importance) from the encyclopedia texts to aid with triple extraction
 
 ### Ongoing steps
 
 - splitting encyclopedia entries that contain multiple concepts
-- developing Hearst patterns (defined as lexico-syntactic recognition of hyponymy; but for EncycNet, several relation types are of importance) from the encyclopedia texts to aid with triple extraction
 - creating a list of concepts from the encyclopedia entries by linking the entries to Wikipedia pages (including semantic disambiguation)
 - linking the concepts to hypernyms using Wikidata
 - extracting triples from the encyclopedia entries by utilizing explicitly annotated references, Hearst patterns and typography tags in general
@@ -56,8 +56,6 @@ The EncycNet knowledge graph also aims to meet the following requirements: each 
 - Corinna Keupp
 - Maximilian Supplieth
 - Nicolas Werner (April 2021 - Sept. 2021)
-
-
 
 
 ## Contact
