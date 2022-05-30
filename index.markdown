@@ -24,7 +24,7 @@ create a new semantic resource for historical German in the form of a richly ann
 - [Original XML corpus](http://dx.doi.org/10.5281/zenodo.4159491)
 - [TEI transformation with XSLT](https://github.com/ThoraHagen/Encyc-Transformation)
 - Thora Hagen, Fotis Jannidis and Andreas Witt, [“Word Sense Alignment and Disambiguation for Historical Encyclopedias“](https://graphentechnologien.hypotheses.org/files/2022/01/Word_Sense_Alignment_and_Disambiguation_for_Historical_etc-Hagen_Jannidis_Witt.pdf), 6th international conference on Graphs and Networks in the Humanities, February 2022.
-- Andreas Witt, Thora Hagen and Fotis Jannidis, “Introducing EncycNet: Graph-based Modeling of 19th Century German Encyclopedic Knowledge”, 5th annual GHI conference on Digital Humanities and Digital History, June 2022.
+- Andreas Witt, Thora Hagen and Fotis Jannidis, “Introducing EncycNet: Graph-based Modeling of 19th Century German Encyclopedic Knowledge”, 5th Annual GHI Conference on Digital Humanities and Digital History, June 2022.
 - Erik Ketzan, Thora Hagen, Fotis Jannidis and Andreas Witt, “Quantitative Analysis of Gendered Assumptions in a Nineteenth-Century Women’s Encyclopedia”, DH2022, July 2022.
 
 
