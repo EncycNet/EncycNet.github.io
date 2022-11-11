@@ -17,17 +17,18 @@ create a new semantic resource for historical German in the form of a richly ann
   background-color: transparent;">Creative Commons</a></p>
 
 
-### Publications, talks, and code
+### Publications and presentations
 
+- Erik Ketzan, Thora Hagen, Fotis Jannidis and Andreas Witt, [“Quantitative Analysis of Gendered Assumptions in a Nineteenth-Century Women’s Encyclopedia”](https://www.erikketzan.com/wp-content/uploads/2022/08/Ketzan_et_al_Gendered_Assumptions.pdf), DH2022, July 2022. 
+- Andreas Witt, Thora Hagen and Fotis Jannidis, “Introducing EncycNet: Graph-based Modeling of 19th Century German Encyclopedic Knowledge”, 5th Annual GHI Conference on Digital Humanities and Digital History, June 2022.
+- Thora Hagen, Fotis Jannidis and Andreas Witt, [“Word Sense Alignment and Disambiguation for Historical Encyclopedias“](https://graphentechnologien.hypotheses.org/files/2022/01/Word_Sense_Alignment_and_Disambiguation_for_Historical_etc-Hagen_Jannidis_Witt.pdf), 6th international conference on Graphs and Networks in the Humanities, February 2022.
 - Thora Hagen, Erik Ketzan, Fotis Jannidis and Andreas Witt, [“Twenty-Two Historical Encyclopedias Encoded in TEI: A New Resource for the Digital Humanities”](https://www.aclweb.org/anthology/2020.latechclfl-1.13.pdf), LaTeCH-CLfL 2020: 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, December 2020.
+
+### Datasets
+
 - [TEI-transformed corpus and ODD](http://dx.doi.org/10.5281/zenodo.4039569)
 - [Original XML corpus](http://dx.doi.org/10.5281/zenodo.4159491)
 - [TEI transformation with XSLT](https://github.com/ThoraHagen/Encyc-Transformation)
-- Thora Hagen, Fotis Jannidis and Andreas Witt, [“Word Sense Alignment and Disambiguation for Historical Encyclopedias“](https://graphentechnologien.hypotheses.org/files/2022/01/Word_Sense_Alignment_and_Disambiguation_for_Historical_etc-Hagen_Jannidis_Witt.pdf), 6th international conference on Graphs and Networks in the Humanities, February 2022.
-- Andreas Witt, Thora Hagen and Fotis Jannidis, “Introducing EncycNet: Graph-based Modeling of 19th Century German Encyclopedic Knowledge”, 5th Annual GHI Conference on Digital Humanities and Digital History, June 2022.
-- Erik Ketzan, Thora Hagen, Fotis Jannidis and Andreas Witt, “Quantitative Analysis of Gendered Assumptions in a Nineteenth-Century Women’s Encyclopedia”, DH2022, July 2022.
-
-
 
 ### What we have done so far
 
