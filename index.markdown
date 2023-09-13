@@ -19,7 +19,7 @@ create a new semantic resource for historical German in the form of a richly ann
 
 ### Publications and presentations
 
-- Thora Hagen, Leonard Konle, Erik Ketzan, Fotis Jannidis and Andreas Witt, “Tracing the Shift to 'Objectivity' in German Encyclopedias of the Long Nineteenth Century”, DH2023, July 2023. (accepted)
+- Thora Hagen, Leonard Konle, Erik Ketzan, Fotis Jannidis and Andreas Witt, “Tracing the Shift to 'Objectivity' in German Encyclopedias of the Long Nineteenth Century”, DH2023, July 2023.
 - Thora Hagen, “EncycNet: Graphen-basierte Modellierung von historischem, enzyklopädischem Wissen”, Forschungskolloquium 'Digital History', June 2023.
 - Thora Hagen, “Von A bis Z: Überlegungen zur Erstellung eines Wissensgraphen aus historischen Enzyklopädien”, DHd 2023: 9. Tagung des Verbands 'Digital Humanities im deutschsprachigen Raum', March 2023.
 - Erik Ketzan, Thora Hagen, Fotis Jannidis and Andreas Witt, [“Quantitative Analysis of Gendered Assumptions in a Nineteenth-Century Women’s Encyclopedia”](https://www.erikketzan.com/wp-content/uploads/2022/08/Ketzan_et_al_Gendered_Assumptions.pdf), DH2022, July 2022. 
