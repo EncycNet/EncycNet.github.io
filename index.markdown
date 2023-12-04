@@ -34,7 +34,7 @@ create a new semantic resource for historical German in the form of a richly ann
 - [TEI transformation with XSLT](https://github.com/EncycNet/Encyc-Transformation)
 - [CSV data of Wikidata alignment and relation extraction](https://github.com/EncycNet/Encyc-Relations) (work in progress)
 - [Application for data exploration, including Wikidata alignment](http://encycnet.digital-humanities.de)
-- [EncycNet Knowledge Graph (RDF)](10.5281/zenodo.10219192) (currently contains Meyers 1905, work in progress)
+- [EncycNet Knowledge Graph (RDF)](http://dx.doi.org/10.5281/zenodo.10219192) (currently contains Meyers 1905, work in progress)
 
 ### What we have done so far
 
