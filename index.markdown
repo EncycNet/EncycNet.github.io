@@ -19,7 +19,7 @@ create a new semantic resource for historical German in the form of a richly ann
 
 ### Publications and presentations
 
-- Thora Hagen, Fotis Jannidis and Andreas Witt, “Mental Maps in EncycNet: Exploring Global Representation in a Historical, German Knowledge Graph, DH2024, August 2024 (accepted).
+- Thora Hagen, Fotis Jannidis and Andreas Witt, “Mental Maps in EncycNet: Exploring Global Representation in a Historical, German Knowledge Graph”, DH2024, August 2024 (accepted).
 - Thora Hagen, Leonard Konle, Erik Ketzan, Fotis Jannidis and Andreas Witt, [“Tracing the Shift to 'Objectivity' in German Encyclopedias of the Long Nineteenth Century”](https://zenodo.org/records/8107633), DH2023, July 2023.
 - Thora Hagen, [“EncycNet: Graphen-basierte Modellierung von historischem, enzyklopädischem Wissen”](https://dhistory.hypotheses.org/5715), Forschungskolloquium 'Digital History', June 2023.
 - Thora Hagen, [“Von A bis Z: Überlegungen zur Erstellung eines Wissensgraphen aus historischen Enzyklopädien”](https://zenodo.org/records/7715341), DHd 2023: 9. Tagung des Verbands 'Digital Humanities im deutschsprachigen Raum', March 2023.
